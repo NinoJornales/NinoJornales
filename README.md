@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Niño. 👋
 
-<!--
-**NinoJornales/NinoJornales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a bachelor's degree in Electronics Engineering and am a licensed Electronics Engineer.
 
-Here are some ideas to get you started:
+I am passionate about data and analytics and look to expand my horizons by honing my skills, connecting with like-minded people, and documenting my journey in data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me!
+
+📧 gmail: nljornales@gmail.com  
+📮 Linkedin: [@ninjornales](https://www.linkedin.com/in/ninjornales/)
+
+Check my portfolio out!
+
+📟 **Excel**: [Car Sales Analysis](https://github.com/NinoJornales/excel-project-car-sales)
+
+📊 **SQL + Tableau**: [Airline Customer Satisfaction Analysis](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/blob/main/README.md)
+
